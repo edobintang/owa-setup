@@ -59,7 +59,7 @@ define('OWA_AUTH_SALT', 'z6x5c4v3b2n1m0l9k8j7h6g5f4d3s2a1');
  * Don't forget the slash at the end.
  */
  
-define('OWA_PUBLIC_URL', 'https://open-web-analytics-setup-production.up.railway.app');
+define('OWA_PUBLIC_URL', 'https://https://owa-setup-production.up.railway.app/');
 // define('OWA_PUBLIC_URL', (getenv('PUBLIC_URL') ?: getenv('RENDER_EXTERNAL_URL')).'/');
 
 /**
